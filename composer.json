@@ -1,5 +1,5 @@
 {
-    "name": "pabloveintimilla/mautic-amazon-ses",
+    "name": "amine-y/mautic-amazon-ses",
     "description": "Mautic 5 plugin that provides Amazon SES as an email transport and callback to process bounces",
     "type": "mautic-plugin",
     "require": {
